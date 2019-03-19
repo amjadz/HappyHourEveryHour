@@ -1,25 +1,19 @@
-# team8-challenge9
-
-## Team Members: 
-- Christine Smet
-- Zubair Amjad
-- Emily Qiao
-
-## Github Pages
-https://info343a-au17.github.io/team8-challenge9/challenge9/
-
 ## Description
 Our app will allow users to search solely for restaurants with food/drink happy hours deals, displaying restaurant name, location, happy hour prices, and happy hour hours. Our users would be anyone who likes paying less for high-quality food and/or enjoys lower-priced drinks with their meals. Our main features would be a search bar, a favorites list, a list of restaurants that match the search in the area, and descriptions of each restaurant. 
 
 What we'll use: Zomato API, React
 
-# ChattyChat Android
+# Happy Hour Every Hour
 
-An android chat application coded in Kotlin
+A web application that allows users to find the nearest happy hour location in their city.
 
 **App**
 
-![APP GIF](chatty.gif)
+![Happy Hour Every Hour GIF](Happy Hour Every Hour.gif)
+
+
+**Github Pages**
+https://info343a-au17.github.io/team8-challenge9/challenge9/
 
 ---
 
@@ -35,14 +29,11 @@ An android chat application coded in Kotlin
 ---
 ## Team
 
-> Or Contributors/People
-
+| <a href="#" target="_blank">**Christine Smet**</a> | <a href="#" target="_blank">**Zubair Amjad**</a> | <a href="#" target="_blank">**Emily Qiao**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
+|![Christine Smet](https://avatars3.githubusercontent.com/u/32251054?s=200&v=4) | ![Zubair Amjad](https://avatars2.githubusercontent.com/u/32583629?s=200&v=4) | ![Emily Qiao](https://avatars2.githubusercontent.com/u/26803359?s=200&v=4) |  
 | <a href="http://github.com/fvcproductions" target="_blank">`Christine Smet`</a> | <a href="http://github.com/fvcproductions" target="_blank">`Zubair Amjad `</a> | <a href="http://github.com/fvcproductions" target="_blank">`Emily Qiao`</a> |
 
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
 
 ---
 
