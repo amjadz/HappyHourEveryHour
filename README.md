@@ -9,10 +9,10 @@ A web application that allows users to find the nearest happy hour location in t
 
 **App**
 
-![HappyHourEveryHour GIF](HappyHourEveryHour.gif)
+![HappyHourEveryHour GIF](happy.gif)
 
 
-**Github Pages**
+**Link**
 https://info343a-au17.github.io/team8-challenge9/challenge9/
 
 ---
